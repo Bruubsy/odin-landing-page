@@ -107,6 +107,36 @@
     text-align: center;
     width: 255px;
 }
+
+.random-information {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.grey-background {
+    background-color: #E5E7EB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    width: 1566px;
+    padding-left: 250px;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
 /* .main-text {
     font-size: 48px;
     font-weight: bolder;
@@ -131,14 +161,5 @@
 
 
 
-.grey-background {
-    background-color: #E5E7EB;
-}
-
-.quote-text {
-    font-size: 36px;
-    font-style: italic;
-    color: #1F2937;
-
-} */
+ */
 
